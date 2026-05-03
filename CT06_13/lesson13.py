@@ -32,16 +32,44 @@ g=["apples", "carrots", "grape"]
 #             print("Apple: i need 3 of these")
 #     if g=="grapes":
 #             print("grapes:get the farmfresh brand")
-s=[]   
-while True:
-    t=input("what have u bought")
-    if u =="end":
-        break
-    t.append(u)
+# s=[]   
+# while True:
+#     t=input("what have u bought")
+#     if u =="end":
+#         break
+#     t.append(u)
 
-hello lucas
-i am definitely not a hacker lolllllll
-EZZZZZZZZZZZZZ
-LLLLL
-ur code so cooked ez
-get hacked lil Bro
+# g=""
+# while True:
+#     g=input("what is selling")
+#     if g=="end":
+#         break
+
+# g=["apples" ,"bananas" ,"germany"]
+
+# while True:
+#     a=input("what are u looking for")
+#     if a in g:
+#         print("we have that")
+#     else:
+# #         print("we dont have that")
+
+
+# import random
+# for i in range (10):
+#     a=(random.randint(1,9999))
+#     print("the winner is #" + str(a) )
+
+pzt=["pepperoni" ," mushrooms" ," pineapple", "uranium", " garlic", " More cheese", " tomatoes", " plutonium", " olives", " onion"]
+print(pzt)
+for i in range(len(pzt)):
+    print(str(i+1) + pzt[i] )
+while True:
+    ys=input("what do you want")
+    if ys=="end":
+        print(ys)
+        break
+
+
+# for i in range(len(pzt)):
+#     print(str(i+1) + pzt[i] )
